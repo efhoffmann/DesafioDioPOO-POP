@@ -6,10 +6,9 @@
 
 🔵 Criar dois projetos no playground usando o Xcode.
 
-🔵 Para o primeiro projeto aplicar o [Paradigma de Programação Orientada a Objetos](https://github.com/efhoffmann/DesafioDioPOO-POP.git
-).
+🔵 Para o primeiro projeto aplicar o [Paradigma de Programação Orientada a Objetos](https://github.com/efhoffmann/DesafioDioPOO-POP/tree/main/DesafioDioPOO.playground).
 
-🔵 No segundo projeto, aplicar o [Paradigma de Programação Orientada a Protocolos](https://github.com/efhoffmann/DesafioDioPOO-POP.git).
+🔵 No segundo projeto, aplicar o [Paradigma de Programação Orientada a Protocolos](https://github.com/efhoffmann/DesafioDioPOO-POP/tree/main/DesafioDioPOP.playground).
 
 🔵 Para ambos os projetos explorar os seguintes conceitos:
 
